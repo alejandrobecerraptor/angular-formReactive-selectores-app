@@ -1,5 +1,5 @@
 # Angular - Formularios Reactivos - Multiples Selectores
-## AngularJs v18.2.11
+## AngularJs v18.2.11 - selectores anidados
 
 Este proyecto esta generado con: [Angular CLI](https://angular.dev/) version 18.2.11.
 
