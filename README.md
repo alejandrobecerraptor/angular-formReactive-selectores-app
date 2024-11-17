@@ -1,27 +1,40 @@
-# Selectores
+# Angular - Formularios Reactivos - Multiples Selectores
+## AngularJs v18.2.11
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
+Este proyecto esta generado con: [Angular CLI](https://angular.dev/) version 18.2.11.
 
-## Development server
+_Aplicacion desarrollada en Angular, formularios reactivos, validaciones,formlarios dinamicos, validaciones dinamicas y bootstrap_s
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Demo 🎮
+_Despleegado con gihub pages, y despliegue automatico con scripts (npm run build:github)_
 
-## Code scaffolding
+Este es el Demo de la aplicacion, **Update[ 17/11/2024 ]** [Click Aquí](https://alejandrobecerraptor.github.io/angular-formsReactivos-selectores-app/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Comenzando 🚀
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-## Running unit tests
+Facil primero lo clonas con este comando:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## `git clone https://github.com/alejandrobecerraptor/angular-formsReactivos-selectores-app.git`
 
-## Running end-to-end tests
+_Despues de eso te toca descargar las dependencias con:_ ⚙️
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## `npm install`
 
-## Further help
+_luego tendras que arrancar el proyecto y para eso necesitas ejecutar el comando:_
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## `ng serve`
+
+y listo disfruta! 🍦
+
+## Construido con 🛠️
+
+* [AngularJs v18](https://angular.dev/) - Framework/plataforma de JavaScript
+* [NPM](https://nodejs.org/es/download/) - Manejador de dependencias
+
+## Autores ✒️
+
+* **Alejandro Becerra** - *Desarrollador Inicial* - [GitHub](https://github.com/alejandrobecerraptor)
+Allí Encontraras mi correo de contacto.
